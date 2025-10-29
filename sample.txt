@@ -1,0 +1,6 @@
+The quick brown fox jumps over the lazy dog.
+My password is P@ssw0rd123!
+Please contact admin@example.com for support.
+aws_secret=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+github_token=ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890ABCD
+Don't use 'password' or '123456'!
