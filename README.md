@@ -8,3 +8,8 @@ They are included **only for educational purposes** to show how secret scanning 
 ```bash
 pip install -r requirements.txt
 python word_finder.py --file sample_data.txt --word "password"
+
+
+## Company test name
+
+For research goals was create virtual company KBTEST wth domain user@kbtest.ru

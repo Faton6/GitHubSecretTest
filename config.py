@@ -6,3 +6,5 @@ GITHUB_TOKEN = "ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890ABCD"
 
 # Fake database URL (looks real, but points nowhere)
 DATABASE_URL = "postgresql://user:fakepass123@example.com:5432/mydb"
+INTERNAL_ACCESS_TO_KBTEST = 'fjdnldsndfjsnfsdjknfksjdsf'
+

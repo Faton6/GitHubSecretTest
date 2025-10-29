@@ -4,3 +4,6 @@ Please contact admin@example.com for support.
 aws_secret=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 github_token=ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890ABCD
 Don't use 'password' or '123456'!
+
+Company email - test@kbtest.ru
+Test access to vpn: vpn@kbtest.ru/VPN_P@ssw0rd
