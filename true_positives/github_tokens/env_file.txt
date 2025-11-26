@@ -1,0 +1,9 @@
+# GitHub Configuration (FAKE tokens for testing)
+GITHUB_TOKEN=ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890
+GH_TOKEN=ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GITHUB_OAUTH=gho_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890
+
+# GitHub App Installation Token
+GITHUB_APP_ID=12345
+GITHUB_PRIVATE_KEY_PATH=/path/to/key.pem
+GITHUB_INSTALLATION_ID=67890

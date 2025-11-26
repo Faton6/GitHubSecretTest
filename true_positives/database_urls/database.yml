@@ -1,0 +1,25 @@
+development:
+  adapter: postgresql
+  database: app_development
+  host: localhost
+  username: dev_user
+  password: DevPass123!
+  port: 5432
+
+test:
+  adapter: postgresql
+  database: app_test
+  host: localhost
+  username: test_user
+  password: TestPass123!
+  port: 5432
+
+production:
+  adapter: postgresql
+  database: app_production
+  host: db.prod.example.com
+  username: prod_admin
+  password: ProdSuperSecret123!
+  port: 5432
+  pool: 25
+  timeout: 5000

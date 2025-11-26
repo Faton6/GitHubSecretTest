@@ -1,0 +1,16 @@
+{
+    "application": {
+        "name": "TestApp",
+        "version": "1.0.0"
+    },
+    "authentication": {
+        "password": "JsonPassword123!",
+        "secret_key": "JsonSecretKey456",
+        "admin_password": "JsonAdminPass789!"
+    },
+    "services": {
+        "email_password": "EmailPassword123",
+        "smtp_password": "SmtpPassword456",
+        "ftp_password": "FtpPassword789"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "google": {
+        "api_key": "AIzaSyA1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q",
+        "maps_key": "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "client_id": "123456789012-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com"
+    },
+    "sendgrid": {
+        "api_key": "SG.XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    "twilio": {
+        "account_sid": "ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "auth_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "openai": {
+        "api_key": "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+}

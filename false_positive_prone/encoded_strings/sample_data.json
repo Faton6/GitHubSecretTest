@@ -1,0 +1,18 @@
+{
+    "encoding_examples": {
+        "base64_text": "VGhpcyBpcyBqdXN0IGEgdGVzdCBtZXNzYWdl",
+        "hex_color": "#3498db",
+        "uuid": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11"
+    },
+    "hash_examples": {
+        "md5": "098f6bcd4621d373cade4e832627b4f6",
+        "sha256": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "sha1": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3"
+    },
+    "identifiers": {
+        "session_id": "sess_1234567890abcdef",
+        "request_id": "req-a1b2c3d4-e5f6-7890",
+        "transaction_id": "txn_abcdefghijklmnop"
+    },
+    "note": "These are example encoded values and hashes, not actual secrets"
+}

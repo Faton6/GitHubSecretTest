@@ -1,0 +1,11 @@
+{
+    "github": {
+        "personal_access_token": "ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890",
+        "oauth_token": "gho_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "api_url": "https://api.github.com"
+    },
+    "webhooks": {
+        "secret": "my_webhook_secret_12345",
+        "url": "https://example.com/webhook"
+    }
+}
